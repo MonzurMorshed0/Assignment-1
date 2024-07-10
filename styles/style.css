@@ -159,3 +159,71 @@ button:hover{
     padding: 32px;
     margin: 0 auto;
 }
+
+
+/* My current target section styles */
+.current-target-container{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.current-target-texts-container{
+    text-align: center;
+}
+.current-target-title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+.current-target-description{
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+}
+.current-target-cards-container{
+    width: 1140px;
+    height: 300px;
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-around;
+}
+.current-target-card1{
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    padding: 40px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.current-target-card2{
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    padding: 40px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.current-target-card3{
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    padding: 40px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.current-target-card-title{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 24px;    
+}
+.current-target-card-description{
+    color: rgb(13, 19, 3);
+    margin-top: 8px;
+}
+.current-target-anchor{
+    margin-top: 24px;
+}
+.current-target-cards-container a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
