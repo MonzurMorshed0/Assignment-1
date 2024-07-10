@@ -13,6 +13,7 @@ button:hover{
     cursor: pointer;
 }
 
+
 /* Banner section styles */
 .banner-container{
     width: 1440px;
@@ -57,8 +58,6 @@ button:hover{
 
 
 /* "Why Web Development?" section styles */
-
-
 .web-development-container{
     width: 1140px;
     height: 1395px;
@@ -128,4 +127,35 @@ button:hover{
     padding: 12px 20px;
     background-color: white;
     margin-top: 32px;
+}
+
+
+/* My inspiration section styles */
+.my-inspiration-container{
+    width: 1140px;
+    height: 777px;
+    margin: 0 auto;
+    margin-top: 90px;
+    text-align: center;
+}
+.my-inspiration-title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+.my-inspiration-description{
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+}
+.my-inspiration-video-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;
+}
+.my-inspiration-video-container iframe{
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 32px;
+    margin: 0 auto;
 }
