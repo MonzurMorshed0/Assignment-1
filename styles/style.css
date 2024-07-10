@@ -57,7 +57,7 @@ button:hover{
 }
 
 
-/* "Why Web Development?" section styles */
+/* Why Web Development? section styles */
 .web-development-container{
     width: 1140px;
     height: 1395px;
@@ -130,7 +130,7 @@ button:hover{
 }
 
 
-/* My inspiration section styles */
+/* My Inspiration section styles */
 .my-inspiration-container{
     width: 1140px;
     height: 777px;
@@ -151,11 +151,11 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
     margin-top: 48px;
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
     padding: 32px;
-    margin: 0 auto;
 }
 .my-inspiration-video-container iframe{
     border-radius: 16px;
