@@ -152,12 +152,13 @@ button:hover{
     justify-content: center;
     align-items: center;
     margin-top: 48px;
-}
-.my-inspiration-video-container iframe{
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
     padding: 32px;
     margin: 0 auto;
+}
+.my-inspiration-video-container iframe{
+    border-radius: 16px;
 }
 
 
